@@ -1,0 +1,29 @@
+package test;
+
+import static org.junit.jupiter.api.Assertions.*;
+import main.File_IO;
+
+import org.junit.jupiter.api.Test;
+
+class File_IOTest {
+
+	@Test
+	void testReadFile() {
+		// 路径存在，正常读取
+        String str = readFile("txt/orig.txt");
+        String[] strings = str.split(" ");
+        for (String string : strings) {
+            System.out.println(string);
+        }
+	}
+
+	@Test
+	void testWriteTxt() {
+		// 路径存在，正常写入
+        double[] elem = {0.1, 0.2, 0.3, 0.4, 0.5};
+        for (int i = 0; i < elem.length; i++) {
+            writeFile(elem[i], "txt/ans.txt");
+        }
+	}
+
+}

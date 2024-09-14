@@ -1,0 +1,29 @@
+package test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ShortStringExceptionTest {
+
+	@Test
+	void testShortStringException() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testShortStringExceptionString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testShortStringExceptionStringThrowable() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testShortStringExceptionThrowable() {
+		fail("Not yet implemented");
+	}
+
+}

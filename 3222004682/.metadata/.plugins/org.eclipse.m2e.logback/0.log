@@ -1,0 +1,12 @@
+2024-09-11 23:35:14,313 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-11 23:37:20,362 [Worker-20: Auto share git projects] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-09-14 02:36:35,336 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-09-14 02:36:36,244 [Worker-8: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-09-14 03:13:15,172 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-14 03:13:15,564 [Worker-2: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-09-14 03:52:04,173 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-14 03:52:04,514 [Worker-0: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-09-14 03:53:36,079 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-14 03:53:36,304 [Worker-6: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null
+2024-09-14 10:16:06,753 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-09-14 10:16:07,080 [Worker-3: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_Win32 - null

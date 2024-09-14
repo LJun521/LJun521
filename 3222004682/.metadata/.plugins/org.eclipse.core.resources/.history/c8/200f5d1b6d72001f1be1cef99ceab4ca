@@ -1,0 +1,19 @@
+package test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class File_IOTest {
+
+	@Test
+	void testReadFile() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testWriteTxt() {
+		fail("Not yet implemented");
+	}
+
+}

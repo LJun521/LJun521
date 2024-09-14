@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MainTest" project="论文查重" tests="7" started="7" failures="0" errors="1" ignored="0">
+  <testsuite name="test.MainTest" time="1.665" displayname="MainTest" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]">
+    <testcase name="nullTest" classname="test.MainTest" time="0.009" displayname="nullTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:nullTest()]">
+      <error>java.lang.NullPointerException&#13;
+	at java.base/java.io.File.&lt;init&gt;(File.java:278)&#13;
+	at main.File_IO.readFile(File_IO.java:16)&#13;
+	at test.MainTest.nullTest(MainTest.java:109)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="origAndAddTest" classname="test.MainTest" time="0.644" displayname="origAndAddTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndAddTest()]"/>
+    <testcase name="origAndDis10Test" classname="test.MainTest" time="0.286" displayname="origAndDis10Test()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDis10Test()]"/>
+    <testcase name="origAndDis15Test" classname="test.MainTest" time="0.22" displayname="origAndDis15Test()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDis15Test()]"/>
+    <testcase name="origAndDis1Test" classname="test.MainTest" time="0.185" displayname="origAndDis1Test()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDis1Test()]"/>
+    <testcase name="origAndDelTest" classname="test.MainTest" time="0.15" displayname="origAndDelTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDelTest()]"/>
+    <testcase name="origAndOrigTest" classname="test.MainTest" time="0.167" displayname="origAndOrigTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndOrigTest()]"/>
+  </testsuite>
+</testrun>

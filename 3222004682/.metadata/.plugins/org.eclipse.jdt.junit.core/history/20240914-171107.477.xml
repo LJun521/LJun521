@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SimHashTest" project="论文查重" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="test.SimHashTest" time="0.621" displayname="SimHashTest" uniqueid="[engine:junit-jupiter]/[class:test.SimHashTest]">
+    <testcase name="testGetSimHash" classname="test.SimHashTest" time="0.617" displayname="testGetSimHash()" uniqueid="[engine:junit-jupiter]/[class:test.SimHashTest]/[method:testGetSimHash()]"/>
+    <testcase name="testGetHash" classname="test.SimHashTest" time="0.002" displayname="testGetHash()" uniqueid="[engine:junit-jupiter]/[class:test.SimHashTest]/[method:testGetHash()]"/>
+  </testsuite>
+</testrun>

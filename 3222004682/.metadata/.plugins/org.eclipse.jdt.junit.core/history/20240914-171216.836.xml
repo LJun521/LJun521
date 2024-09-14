@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="HammingTest" project="论文查重" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="test.HammingTest" time="1.183" displayname="HammingTest" uniqueid="[engine:junit-jupiter]/[class:test.HammingTest]">
+    <testcase name="testGetSimilarity" classname="test.HammingTest" time="0.931" displayname="testGetSimilarity()" uniqueid="[engine:junit-jupiter]/[class:test.HammingTest]/[method:testGetSimilarity()]"/>
+    <testcase name="testGetHammingDistance" classname="test.HammingTest" time="0.248" displayname="testGetHammingDistance()" uniqueid="[engine:junit-jupiter]/[class:test.HammingTest]/[method:testGetHammingDistance()]"/>
+    <testcase name="testGetHammingDistanceFail" classname="test.HammingTest" time="0.002" displayname="testGetHammingDistanceFail()" uniqueid="[engine:junit-jupiter]/[class:test.HammingTest]/[method:testGetHammingDistanceFail()]"/>
+  </testsuite>
+</testrun>

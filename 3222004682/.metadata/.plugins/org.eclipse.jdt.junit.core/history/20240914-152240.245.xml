@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MainTest" project="论文查重" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="test.MainTest" time="1.649" displayname="MainTest" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]">
+    <testcase name="origAndAddTest" classname="test.MainTest" time="0.624" displayname="origAndAddTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndAddTest()]"/>
+    <testcase name="origAndDis10Test" classname="test.MainTest" time="0.251" displayname="origAndDis10Test()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDis10Test()]"/>
+    <testcase name="origAndDis15Test" classname="test.MainTest" time="0.217" displayname="origAndDis15Test()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDis15Test()]"/>
+    <testcase name="origAndDis1Test" classname="test.MainTest" time="0.191" displayname="origAndDis1Test()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDis1Test()]"/>
+    <testcase name="origAndDelTest" classname="test.MainTest" time="0.18" displayname="origAndDelTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndDelTest()]"/>
+    <testcase name="origAndOrigTest" classname="test.MainTest" time="0.182" displayname="origAndOrigTest()" uniqueid="[engine:junit-jupiter]/[class:test.MainTest]/[method:origAndOrigTest()]"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="File_IOTest" project="论文查重" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="test.File_IOTest" time="0.001" displayname="File_IOTest" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]">
+    <testcase name="testWriteTxt" classname="test.File_IOTest" time="0.001" displayname="testWriteTxt()" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]/[method:testWriteTxt()]"/>
+    <testcase name="testReadFile" classname="test.File_IOTest" time="0.0" displayname="testReadFile()" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]/[method:testReadFile()]"/>
+    <testcase name="readTxtFailTest" classname="test.File_IOTest" time="0.0" displayname="readTxtFailTest()" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]/[method:readTxtFailTest()]"/>
+  </testsuite>
+</testrun>

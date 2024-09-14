@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="File_IOTest" project="论文查重" tests="3" started="3" failures="0" errors="1" ignored="0">
+  <testsuite name="test.File_IOTest" time="0.026" displayname="File_IOTest" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]">
+    <testcase name="testWriteTxt" classname="test.File_IOTest" time="0.008" displayname="testWriteTxt()" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]/[method:testWriteTxt()]"/>
+    <testcase name="testReadFile" classname="test.File_IOTest" time="0.01" displayname="testReadFile()" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]/[method:testReadFile()]"/>
+    <testcase name="readTxtFailTest" classname="test.File_IOTest" time="0.007" displayname="readTxtFailTest()" uniqueid="[engine:junit-jupiter]/[class:test.File_IOTest]/[method:readTxtFailTest()]">
+      <error>java.lang.NullPointerException&#13;
+	at java.base/java.io.File.&lt;init&gt;(File.java:278)&#13;
+	at main.File_IO.readFile(File_IO.java:16)&#13;
+	at test.File_IOTest.readTxtFailTest(File_IOTest.java:39)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>
